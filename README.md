@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Masudbek Abduvahobov
 
-<!--
-**MASUDBEKAI/MASUDBEKAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Beginner Python Developer | Learning programming and building projects  
 
-Here are some ideas to get you started:
+🌱 Currently learning: **Python, Git & GitHub, and problem solving**  
+💡 Goals: Build cool projects and grow as a developer  
+📫 Reach me via: [GitHub Profile](https://github.com/MASUDBEKAI)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧰 Languages and Tools
+🟢 Python  
+⚙️ Git & GitHub  
+🧱 VS Code  
+
+---
+
+### 📊 GitHub Stats
+![Masudbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=MASUDBEKAI&show_icons=true&theme=tokyonight)
+
+---
+
+⭐️ _"Every expert was once a beginner."_ ⭐️
