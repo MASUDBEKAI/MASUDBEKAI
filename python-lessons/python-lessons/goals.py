@@ -12,3 +12,4 @@ with open("goals.txt", "r", encoding="utf-8") as f:
 with open("goals.txt", "a", encoding="utf-8") as f:
     f.write("5. To launch my own startup\n") # like append
 
+
