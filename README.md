@@ -38,9 +38,3 @@
 ---
 
 ⭐ <i>“Every expert was once a beginner.”</i> 🌟
-
-🎯 Beginner Python Developer | Learning programming and building projects  
-
-🌱 Currently learning: **Python, Git & GitHub, and problem solving**  
-💡 Goals: Build cool projects and grow as a developer  
-📫 Reach me via: [GitHub Profile](https://github.com/MASUDBEKAI)
